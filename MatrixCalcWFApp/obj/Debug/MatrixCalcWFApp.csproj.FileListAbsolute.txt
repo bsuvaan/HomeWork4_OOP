@@ -1,0 +1,10 @@
+C:\Users\ipsuv\OneDrive\Документы\C##\OOP\4Homework\MatrixCalcWFApp\bin\Debug\MatrixCalcWFApp.exe.config
+C:\Users\ipsuv\OneDrive\Документы\C##\OOP\4Homework\MatrixCalcWFApp\bin\Debug\MatrixCalcWFApp.exe
+C:\Users\ipsuv\OneDrive\Документы\C##\OOP\4Homework\MatrixCalcWFApp\bin\Debug\MatrixCalcWFApp.pdb
+C:\Users\ipsuv\OneDrive\Документы\C##\OOP\4Homework\MatrixCalcWFApp\obj\Debug\MatrixCalcWFApp.csproj.AssemblyReference.cache
+C:\Users\ipsuv\OneDrive\Документы\C##\OOP\4Homework\MatrixCalcWFApp\obj\Debug\MatrixCalcWFApp.Properties.Resources.resources
+C:\Users\ipsuv\OneDrive\Документы\C##\OOP\4Homework\MatrixCalcWFApp\obj\Debug\MatrixCalcWFApp.csproj.GenerateResource.cache
+C:\Users\ipsuv\OneDrive\Документы\C##\OOP\4Homework\MatrixCalcWFApp\obj\Debug\MatrixCalcWFApp.csproj.CoreCompileInputs.cache
+C:\Users\ipsuv\OneDrive\Документы\C##\OOP\4Homework\MatrixCalcWFApp\obj\Debug\MatrixCalcWFApp.exe
+C:\Users\ipsuv\OneDrive\Документы\C##\OOP\4Homework\MatrixCalcWFApp\obj\Debug\MatrixCalcWFApp.pdb
+C:\Users\ipsuv\OneDrive\Документы\C##\OOP\4Homework\MatrixCalcWFApp\obj\Debug\MatrixCalcWFApp.Form1.resources
